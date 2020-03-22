@@ -160,6 +160,8 @@ public class Users {
         // For each entry, get the user and add it to the list of users
         users = new ArrayList<String>();
         getEntries().forEach((e) -> users.add(e.get(1)));
+        // Remove the header row
+        users.remove(0);
 
     }
 
