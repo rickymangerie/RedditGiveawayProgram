@@ -1,4 +1,4 @@
-# TameImpalaGiveawayProgram
+# RedditGiveawayProgram
 
 This program will determine two winners of a Reddit giveaway.
 
